@@ -6,6 +6,7 @@
 [code link](https://bu-ie-360.github.io/spring22-utkuboyar/ie360_hw1_2018402144.ipynb)
 
 ### Homework 2
+[link](https://bu-ie-360.github.io/spring22-utkuboyar/ie360_hw2.ipynb)
 
 ### Homework 3
 
