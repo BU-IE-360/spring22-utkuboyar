@@ -13,7 +13,7 @@
 ### Homework 3
 
 ### Project
-[report link]
+[report link](https://bu-ie-360.github.io/spring22-utkuboyar/IE360_PROJECT_REPORT.pdf)
 
-[code link]
+[code link](https://bu-ie-360.github.io/spring22-utkuboyar/IE360_PROJECT_REPORT_Final.html)
 
